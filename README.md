@@ -1,6 +1,6 @@
 # OpenLayers webmap tutorial for MAAN7771 | 2025
 
-This tutorial covers some key steps and tips for creating an OpenLayers webmap. The simple webmap created for this demo can be viewed here: [https://voaaal.github.io/OpenLayers-webmap/](https://voaaal.github.io/OpenLayers-webmap/).
+This tutorial covers some key steps and tips for creating an OpenLayers webmap. The simple webmap created for this demo can be viewed here: [https://utu-geospatial-labs.github.io/MAAN7771-openlayers-tutorial/](https://utu-geospatial-labs.github.io/MAAN7771-openlayers-tutorial/).
 
 ## 1. Install software
 
