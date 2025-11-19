@@ -187,7 +187,7 @@ map.addControl(layerSwitcher);
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Single Image WMS</title>
+    <title>Tanzania forest reserves</title>
     <link rel="stylesheet" href="node_modules/ol/ol.css">
     <style>
       .map {
